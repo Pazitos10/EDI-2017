@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.team.maps.MainActivity">
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/user_location_msg"
+        android:id="@+id/user_location_msg"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"/>
+
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/open_map_button_msg"
+        android:layout_marginTop="15dp"
+        android:id="@+id/open_map_button"/>
+
+</LinearLayout>

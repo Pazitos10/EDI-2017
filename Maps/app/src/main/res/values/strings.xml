@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="open_map_button_msg">Abrir Mapa</string>
+    <string name="user_location_msg">Latitud %1$s, Longitud %2$s</string>
+    <string name="marker_msg">Aqui se dictaron las Escuelas de Informática 2017!</string>
+</resources>
