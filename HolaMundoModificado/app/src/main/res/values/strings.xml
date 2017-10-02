@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hola Mundo Modificado</string>
+    <string name="message">Hola Mundo</string>
+    <string name="button_change_message_title">Cambiar Mensaje</string>
+    <string name="button_change_activity_title">Cambiar de Activity</string>
+    <string name="otro_activity_msg">Me encuentro en otro Activity</string>
+    <string name="custom_msg">Escuelas de informática</string>
+</resources>
