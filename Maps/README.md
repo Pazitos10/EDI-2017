@@ -1,4 +1,4 @@
-Maps
+Maps: Google Maps y Google Play Location Services
 -
 
 Este proyecto contiene un ejemplo simple de una aplicación en Android que incluye los siguientes componentes:
