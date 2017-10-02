@@ -11,3 +11,7 @@ Incluye 2 botones:
 Importante: Todos los mensajes pueden y debieran modificarse accediendo al archivo `strings.xml` ubicado en la carpeta `res->values`.
 
 #### Screenshots
+
+![](https://i.imgur.com/qHZt4Ui.png) 
+![](https://i.imgur.com/C2zG0kq.png)
+
